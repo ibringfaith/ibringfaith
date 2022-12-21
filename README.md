@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibringfaith
-- 👀 I’m interested in music, winter, and sports.
-- 🌱 I’m currently learning Java programming and statistics.
+- 👀 I’m interested in music, winter, and dataviz.
+- 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
