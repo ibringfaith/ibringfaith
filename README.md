@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibringfaith
 - 👀 I’m interested in civic engagement, machine learning, and dataviz.
-- 🌱 I’m currently learning algorithms and data structures.
+- 🌱 I’m currently learning about machine learning and coding in C.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
