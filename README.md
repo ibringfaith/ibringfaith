@@ -6,7 +6,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibringfaith&theme=shades-of-purple"/>
 
-![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logo=<linux>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
 
 <!---
