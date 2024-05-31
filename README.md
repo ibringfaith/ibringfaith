@@ -4,7 +4,7 @@
 - 💞️ I’m a third-year undergraduate in the Computer Science department at Princeton University.
 - 📫 Find me here: https://www.linkedin.com/in/faith-best/
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibringfaith&theme=shades-of-purple"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibringfaith&theme=shades-of-purple" alt="Faith's most used languages on GitHub. First is Jupyter Notebook, which makes up 99.81% of her code on GitHub. Second, is HTML, which makes up 1.09% of her code on GitHub. Third is JavaScript, which makes up 0.09% of her code on GitHub. Fourth, is CSS, which makes up 0.02% of her code on GitHub."/>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FFD464)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=FFD464)
@@ -14,10 +14,6 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FFD464)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=FFD464)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=FFD464)
-![](https://img.shields.io/badge/System_Software-Git-informational?style=flat&logo=git3&logoColor=white&color=FFD464)
-
-
-
 
 <!---
 ibringfaith/ibringfaith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
