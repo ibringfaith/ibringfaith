@@ -7,6 +7,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibringfaith&theme=shades-of-purple"/>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FFD464)
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=linux&logoColor=white&color=FFD464)
+
 
 
 <!---
