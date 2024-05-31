@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faith Best.
 - 👀 I’m interested in civic engagement, machine learning, and dataviz.
-- 🌱 I’m currently in NJ learning about data science.
+- 🌱 I’m currently in north-central NJ learning about data science.
 - 💞️ I’m a third-year undergraduate in the Computer Science department at Princeton University.
 - 📫 Links: https://www.linkedin.com/in/faith-best/
 
