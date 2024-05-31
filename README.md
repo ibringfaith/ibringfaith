@@ -4,7 +4,7 @@
 - 💞️ I’m a third-year undergraduate in the Computer Science department at Princeton University.
 - 📫 Find me here: https://www.linkedin.com/in/faith-best/
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibringfaith&theme=<shades-of-purple>"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibringfaith&theme=shades-of-purple"/>
 
 <!---
 ibringfaith/ibringfaith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
