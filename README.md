@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Faith Best.
 - 👀 I’m interested in civic engagement, machine learning, and dataviz.
 - 🌱 I’m currently in north-central NJ learning about data science.
-- 💞️ I’m a third-year undergraduate in the Computer Science department at Princeton University.
+- 💞️ I’m a rising third-year undergraduate in the Computer Science department at Princeton University.
 - 📫 Find me here: https://www.linkedin.com/in/faith-best/
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibringfaith&theme=shades-of-purple" alt="Faith's most used languages on GitHub. First is Jupyter Notebook, which makes up 99.81% of her code on GitHub. Second, is HTML, which makes up 1.09% of her code on GitHub. Third is JavaScript, which makes up 0.09% of her code on GitHub. Fourth, is CSS, which makes up 0.02% of her code on GitHub."/>
