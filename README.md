@@ -14,6 +14,9 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FFD464)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=FFD464)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=FFD464)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=FFD464)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=database&logoColor=white&color=FFD464)
+
 
 [![roadmap.sh](https://roadmap.sh/card/tall/66e257dc12af4935a0acc605?variant=dark)](https://roadmap.sh)
 
