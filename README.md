@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faith Best.
 - 👀 I’m interested in research, machine learning, and data science.
-- 🌱 I’m in north-central NJ learning about linear regression and calculus for machine learning.
+- 🌱 I’m in north-central NJ learning about natural language processing and the impacts of remote work on employees.
 - 💞️ I’m a rising third-year undergraduate in the Computer Science department at Princeton University.
 - 📫 Find me here: https://www.linkedin.com/in/faith-best/
 
