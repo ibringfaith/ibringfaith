@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Faith Best.
-- 👀 I’m interested in research, data science, finance, and sustainability.
+- 👀 I’m interested in research, data science, community, sustainability, and health.
 - 🌱 I’m in NJ learning about programming in R.
 - 💞️ I’m a rising third-year undergraduate in the Computer Science department at Princeton University.
 - 📫 Find me here: https://www.linkedin.com/in/faith-best/
