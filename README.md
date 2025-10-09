@@ -7,7 +7,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibringfaith&theme=shades-of-purple" alt="Faith's most used languages on GitHub. First is Jupyter Notebook, which makes up 99.81% of her code on GitHub. Second, is HTML, which makes up 1.09% of her code on GitHub. Third is JavaScript, which makes up 0.09% of her code on GitHub. Fourth, is CSS, which makes up 0.02% of her code on GitHub."/>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FFD464)
-![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=FFD464)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=FFD464)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=FFD464)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=FFD464)
